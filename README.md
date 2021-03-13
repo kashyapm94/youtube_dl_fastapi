@@ -8,7 +8,7 @@ Download or clone the project from [here](https://github.com/kashyapm94/youtube_
 
 Please note that all the code is currently in the **develop** branch
 
-For this project [pipenv](https://pipenv.pypa.io/en/latest/) is being used to create virtual env.
+For this project [pipenv](https://pipenv.pypa.io/en/latest/) is being used to create virtual env, but a **requirements.txt** file is made available for other venv.
 
 The project folder must contain a `.env` file and must contain the name of the folder where you would like to download the `mp3` version of the youtube video. Example:
 
